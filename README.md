@@ -1,0 +1,1 @@
+##### This is just a repo to have fun scripts
